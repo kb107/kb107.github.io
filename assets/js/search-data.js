@@ -53,6 +53,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-working-as-a-pre-doctoral-fellow-at-the-ece-department-iisc-bangalore-under-the-supervision-of-dr-prathosh-ap-supported-by-the-kotak-iisc-ai-ml-centre-pre-doctoral-fellowship",
           title: 'Started working as a Pre-Doctoral Fellow at the ECE Department, IISc Bangalore, under...',
           description: "",
+          section: "News",},{id: "news-our-paper-langdaug-langevin-data-augmentation-for-multi-source-domain-generalization-in-medical-image-segmentation-has-been-accepted-as-a-poster-at-icml-2025",
+          title: 'Our paper “LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
