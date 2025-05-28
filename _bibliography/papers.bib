@@ -5,7 +5,7 @@
 
 @article{tiwary2024cycle,
   abbr={Med. Image Anal.},
-  bibtex_show={true},
+  abstract={Domain shift refers to change of distributional characteristics between the training (source) and the testing (target) datasets of a learning task, leading to performance drop. For tasks involving medical images, domain shift may be caused because of several factors such as change in underlying imaging modalities, measuring devices and staining mechanisms. Recent approaches address this issue via generative models based on the principles of adversarial learning albeit they suffer from issues such as difficulty in training and lack of diversity. Motivated by the aforementioned observations, we adapt an alternative class of deep generative models called the Energy-Based Models (EBMs) for the task of unpaired image-to-image translation of medical images. Specifically, we propose a novel method called the Cycle Consistent Twin EBMs (CCT-EBM) which employs a pair of EBMs in the latent space of an Auto-Encoder trained on the source data. While one of the EBMs translates the source to the target domain the other does vice-versa along with a novel consistency loss, ensuring translation symmetry and coupling between the domains. We theoretically analyze the proposed method and show that our design leads to better translation between the domains with reduced langevin mixing steps. We demonstrate the efficacy of our method through detailed quantitative and qualitative experiments on image segmentation tasks on three different datasets vis-a-vis state-of-the-art methods.},
   title={Cycle consistent twin energy-based models for image-to-image translation},
   author={Tiwary, Piyush and Bhattacharyya, Kinjawl and AP, Prathosh},
   journal={Medical Image Analysis},
@@ -16,6 +16,7 @@
   html={https://www.sciencedirect.com/science/article/abs/pii/S1361841523002918?via%3Dihub},
   code={https://github.com/kb107/Boundary-Preserving-Twin-EBMs},
   selected={true},
+  preview={cycleebm.png}
 }
 
 @inproceedings{
@@ -26,5 +27,8 @@ author={Tiwary, Piyush and Bhattacharyya, Kinjawl and AP, Prathosh},
 booktitle={Forty-second International Conference on Machine Learning},
 year={2025},
 selected={true},
-note={arXiv preprint and Github code coming soon.},
+website={https://backpropagator.github.io/LangDAug/},
+code={https://github.com/backpropagator/LangDAug},
+abstract={Medical image segmentation models often struggle to generalize across different domains due to various reasons. Domain Generalization (DG) methods overcome this either through representation learning or data augmentation (DAug). While representation learning methods seek domain-invariant features, they often rely on ad-hoc techniques and lack formal guarantees. DAug methods, which enrich model representations through synthetic samples, have shown comparable or superior performance to representation learning approaches. We propose LangDAug, a novel Langevin Data Augmentation for multi-source domain generalization in 2D medical image segmentation. LangDAug leverages Energy-Based Models (EBMs) trained via contrastive divergence to traverse between source domains, generating intermediate samples through Langevin dynamics. Theoretical analysis shows that LangDAug induces a regularization effect, and for GLMs, it upper-bounds the Rademacher complexity by the intrinsic dimensionality of the data manifold. Through extensive experiments on Fundus segmentation and 2D MRI prostate segmentation benchmarks, we show that LangDAug outperforms state-of-the-art domain generalization methods and effectively complements existing domain-randomization approaches.},
+preview={langdaug.png}
 }
