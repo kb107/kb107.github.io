@@ -51,4 +51,3 @@ You can find more details in my <a href="https://drive.google.com/file/d/1UjnZlO
 and <a href="https://scholar.google.com/citations?hl=en&user=Uc__Y2cAAAAJ">Google Scholar</a>.
 Feel free to reach out at <a href="mailto:kinjawl03@gmail.com">kinjawl03@gmail.com</a> or via
 <a href="https://www.linkedin.com/in/kinjawl-bhattacharyya-60bb151b2/">LinkedIn</a>.
-
