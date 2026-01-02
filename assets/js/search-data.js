@@ -44,7 +44,7 @@ ninja.data = [{
       },{id: "news-started-my-internship-at-the-vision-and-learning-lab-university-of-alberta-under-the-supervision-of-dr-li-cheng-as-a-mitacs-gri-fellow",
           title: 'Started my internship at the Vision and Learning Lab, University of Alberta under...',
           description: "",
-          section: "News",},{id: "news-our-paper-titled-cycle-consistent-twin-energy-based-models-for-image-to-image-translation-has-been-accepted-in-elsevier-s-medical-image-analysis-if-10-7-journal",
+          section: "News",},{id: "news-our-paper-titled-cycle-consistent-twin-energy-based-models-for-image-to-image-translation-has-been-accepted-in-elsevier-s-medical-image-analysis-if-11-8-journal",
           title: 'Our paper titled Cycle consistent twin energy-based models for image-to-image translation has been...',
           description: "",
           section: "News",},{id: "news-successfully-completed-my-b-tech-in-electrical-engineering-from-iit-kharagpur",
@@ -55,6 +55,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-langdaug-langevin-data-augmentation-for-multi-source-domain-generalization-in-medical-image-segmentation-has-been-accepted-as-a-poster-at-icml-2025",
           title: 'Our paper “LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image...',
+          description: "",
+          section: "News",},{id: "news-started-working-as-a-research-intern-at-the-palm-lab-university-of-south-florida-under-the-supervision-of-prof-anshuman-chhabra",
+          title: 'Started working as a Research Intern at the PALM Lab, University of South...',
           description: "",
           section: "News",},{
         id: 'social-email',
