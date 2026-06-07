@@ -59,6 +59,9 @@ ninja.data = [{
           section: "News",},{id: "news-started-working-as-a-research-intern-at-the-palm-lab-university-of-south-florida-under-the-supervision-of-prof-anshuman-chhabra",
           title: 'Started working as a Research Intern at the PALM Lab, University of South...',
           description: "",
+          section: "News",},{id: "news-i-ll-be-joining-unc-chapel-hill-in-fall-2026-to-pursue-a-phd-in-computer-science",
+          title: 'I’ll be joining UNC Chapel Hill in Fall 2026 to pursue a PhD...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
